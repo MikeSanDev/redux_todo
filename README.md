@@ -1,5 +1,5 @@
-#React/Redux Todo App
-This is just practice for me to learn how to use redux!
+# React/Redux Todo App
+### This is just practice for me to learn how to use redux!
 
 # Getting Started with Create React App
 
