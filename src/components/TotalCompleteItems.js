@@ -8,7 +8,7 @@ const TotalCompleteItems = () => {
 
 	return (
 		<h4 className='mt-3'>
-			Total Complete Items: {completedTodos.length}
+			Total Complete Items!!: {completedTodos.length}
 		</h4>
 	);
 };
