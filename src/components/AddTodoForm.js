@@ -14,6 +14,7 @@ const AddTodoForm = () => {
 				title: value,
 			})
 		);
+		setValue(''); // reset the value state to an empty string
 	};
 
 	return (
