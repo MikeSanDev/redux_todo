@@ -1,18 +1,18 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
-import { toggleComplete, deleteTodo } from '../redux/todoSlice';
+import { toggleCompleteAsync, deleteTodoAsync } from '../redux/todoSlice';
 
 const TodoItem = ({ id, title, completed }) => {
 	const dispatch = useDispatch();
 
 	const handleComplete = () => {
 		dispatch(
-			toggleComplete({id: id, completed: !completed})
+			toggleCompleteAsync({id: id, completed: !completed})
 		);
 	};
 
 	const handleDelete = () => {
-		dispatch(deleteTodo({id: id}))
+		dispatch(deleteTodoAsync({id}))
 	}
 	return (
 		<li className={`list-group-item ${completed && 'list-group-item-success'}`}>
