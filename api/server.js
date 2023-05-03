@@ -13,31 +13,7 @@ app.use(cors());
 app.use(json());
 
 let todos = [
-	{
-		id: nanoid(),
-		title: 'todo 1',
-		completed: true,
-	},
-	{
-		id: nanoid(),
-		title: 'todo 2',
-		completed: false,
-	},
-	{
-		id: nanoid(),
-		title: 'todo 3',
-		completed: false,
-	},
-	{
-		id: nanoid(),
-		title: 'todo 4',
-		completed: false,
-	},
-	{
-		id: nanoid(),
-		title: 'todo 5',
-		completed: false,
-	},
+
 ];
 
 app.get('/todos', (req, res) => res.send(todos));
