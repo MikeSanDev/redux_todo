@@ -1,9 +1,6 @@
 # React/Redux Todo App
-### This is just practice for me to learn how to use redux!
-
-
-
-
+### This is practice for me to learn how to use redux!
+*** I am going to deploy this on Netlify soon
 
 
 
