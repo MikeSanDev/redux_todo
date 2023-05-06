@@ -7,7 +7,7 @@ import TotalCompleteItems from './components/TotalCompleteItems';
 const App = () => {
 	return (
 		<div className='container bg-white p-4 mt-5'>
-			<h1><span className='todo_span'>Michael's</span>Todo List</h1>
+			<h1><span className='todo_span'>Michael's</span> Todo List</h1>
 			<AddTodoForm />
 			<TodoList />
 			<TotalCompleteItems />
