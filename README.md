@@ -1,6 +1,14 @@
 # React/Redux Todo App
 ### This is practice for me to learn how to use redux!
-*** I am going to deploy this on Netlify soon
+Demo:
+### Adding a task
+![first](https://github.com/MikeSanDev/redux_todo/assets/96930354/efe26eb5-e523-4b7f-8fe2-62a18b62fd38)
+### Checking off a finished task
+![second](https://github.com/MikeSanDev/redux_todo/assets/96930354/b50f319c-5016-439d-8dca-da010e4cbd3e)
+### Deleting a task
+![third](https://github.com/MikeSanDev/redux_todo/assets/96930354/d4554603-c797-4fac-966e-1819fbc51c8a)
+
+
 
 
 
