@@ -2,15 +2,11 @@
 ### This is practice for me to learn how to use redux!
 Demo:
 ### Adding a task
-![first](https://github.com/MikeSanDev/redux_todo/assets/96930354/efe26eb5-e523-4b7f-8fe2-62a18b62fd38)
+![first](https://github.com/MikeSanDev/redux_todo/assets/96930354/9bacff69-e4a6-490b-81f1-9c786224d463)
 ### Checking off a finished task
-![second](https://github.com/MikeSanDev/redux_todo/assets/96930354/b50f319c-5016-439d-8dca-da010e4cbd3e)
+![second](https://github.com/MikeSanDev/redux_todo/assets/96930354/b5f6eb82-d8f9-49aa-8af9-a6df994aec71)
 ### Deleting a task
-![third](https://github.com/MikeSanDev/redux_todo/assets/96930354/d4554603-c797-4fac-966e-1819fbc51c8a)
-
-
-
-
+![third](https://github.com/MikeSanDev/redux_todo/assets/96930354/409ca34b-9938-4862-9e6a-8cd6309d8d8e)
 
 # Getting Started with Create React App
 
