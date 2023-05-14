@@ -1,11 +1,13 @@
 # React/Redux Todo App
 ### This is practice for me to learn how to use redux!
 <ul>
-  <h1>Build with:</h1>
+# Built With:
   <li>React</li>
   <li>Redux</li>
   <li>Redux Toolkit</li>
 </ul>
+
+
 ### Adding a task
 ![first](https://github.com/MikeSanDev/redux_todo/assets/96930354/9bacff69-e4a6-490b-81f1-9c786224d463)
 ### Checking off a finished task
