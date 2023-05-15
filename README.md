@@ -1,5 +1,5 @@
 # React/Redux Todo App
-### This is practice for me to learn how to use redux!
+### I am learning how to use Redux!
 
 # Built With:
 <ul>
